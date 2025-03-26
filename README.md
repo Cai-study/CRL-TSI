@@ -41,3 +41,5 @@ Parameters:
 # Evaluate
 All trained model weights can be downloaded from this [link](https://pan.baidu.com/s/1UTy3eX3ynW-5grJVs9gxTg) (password: yi78).
 Put the logs_CRL_TSI directory under the root directory of this repo and set -d False, then you can test and evaluate the models.
+## Acknowledgement
+Some of the code is adapted from [GenericSSL](https://github.com/xmed-lab/GenericSSL).
